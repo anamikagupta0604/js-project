@@ -11,7 +11,7 @@
 
 <br/>
 
-![Shoe Nova Banner](https://images.unsplash.com/photo-1604147495798-57beb5d6af73?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![Shoe Nova Banner]
 
 <br/>
 
