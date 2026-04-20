@@ -11,7 +11,9 @@
 
 <br/>
 
-![Shoe Nova Banner]
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=369e62&height=200&section=header&text=SHOE%20NOVA&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Sneaker%20E-Commerce%20%7C%20HTML%20%7C%20CSS%20%7C%20JS&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
 <br/>
 
